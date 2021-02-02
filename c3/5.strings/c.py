@@ -13,6 +13,7 @@ print('\n')
 a='Hello world'
 print(a.replace('H', 'E'))
 print('\n')
+
 #split
 a='Hello World'
 print(a.split(' '))
